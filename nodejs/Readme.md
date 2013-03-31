@@ -4,9 +4,11 @@ Pretty much a standalone jQuery + Bootstrap web app that is multi-device friendl
 
 Works on a set of RSS feeds hardcoded into the Javascript. Fetches random feed on page load and on 'Random' button click.
 
-Future Enhancements:
-1. A way to personalize the feed set.
-2. More bootstrap styling!
-3. Fetching and displaying more than 9 feeds but retaining the ability to flip between the set of 9 feeds. Sort of like the Smartphone home screens.
+<h6>Future Enhancements</h6>
+<ol>
+<li>A way to personalize the feed set.</li>
+<li> More bootstrap styling!</li>
+<li>Fetching and displaying more than 9 feeds but retaining the ability to flip between the set of 9 feeds. Sort of like the Smartphone home screens.</li>
+</ol>
 
 <h4></h4> 
